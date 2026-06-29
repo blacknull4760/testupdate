@@ -1,5 +1,7 @@
 {
-  "version": 1,
-  "status": "test",
-  "users": []
+  "version": "1.0",
+  "forceUpdate": true,
+  "downloadUrl": "https://raw.githubusercontent.com/<testupdate>/main/BSVStock.exe",
+  "message": "Đây là bản test 1.0",
+  "licenseUrl": "https://raw.githubusercontent.com/<testupdate>/main/license.txt"
 }
