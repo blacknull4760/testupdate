@@ -1,7 +1,7 @@
 {
   "version": "2.0.0.47",
   "forceUpdate": true,
-  "downloadUrl": "http://127.0.0.1:8080/BSVStock_new.exe",
+  "downloadUrl": "https://raw.githubusercontent.com/blacknull4760/testupdate/refs/heads/main/BSVStock_new.exe",
   "licenseUrl": "https://raw.githubusercontent.com/blacknull4760/testupdate/refs/heads/main/license.txt",
   "telegramBotToken": "8924788306:AAGyub7NSxB3TH9RzRuNHuMHmvY6XsfBVdE", 
   "telegramChatId": "5097067934"
